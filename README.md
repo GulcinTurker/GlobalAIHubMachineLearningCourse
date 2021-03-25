@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 22.03.2021  
 **Name:** Gülçin  
 **Surname:** Türker  
 **Email:** gulcinturker@gmail.com  
